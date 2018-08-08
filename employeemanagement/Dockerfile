@@ -1,4 +1,4 @@
-# Start with a base image containing Java runtime
+
 FROM java:8
 
 # Add a volume pointing to /tmp
